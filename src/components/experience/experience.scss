@@ -1,0 +1,74 @@
+@import "../../global.scss";
+
+  .timeline{
+      background-color: white;
+      font: 200 15px/1.5 Helvetica, Verdana, sans-serif;
+  .title{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-weight: 200;
+  }
+  .vertical-timeline-element-icon{
+      margin-top: 10px;
+      margin-left: 4px;
+  }
+
+  .vertical-timeline-element-content {
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25),
+      0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+    padding: 2em 3em !important;
+    padding-bottom: 0px;
+    h3{
+        font-weight: 500;
+    }
+    h4{
+        font-weight: 450;
+    }
+    h5{
+        font-weight: 400;
+    }
+  }
+  
+  .date {
+    color: rgb(201, 251, 255);
+  }
+  
+  #description {
+    margin: 1.5em 0 2em 0;
+  }
+  
+  .button {
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  .workButton {
+    background-color: #06d6a0;
+  }
+  
+  .workButton:hover {
+    background-color: #0ac593;
+  }
+  
+  .schoolButton {
+    background-color: #f9c74f;
+  }
+  
+  .schoolButton:hover {
+    background-color: #f3bc3c;
+  }
+
+  
+  @media only screen and (max-width: 1700px) {
+    .vertical-timeline-element-date {
+      display: block !important;
+      float: none !important;
+      color: rgb(44, 44, 44);
+      margin-top: 1.5em;
+    }
+  }
+}
+  

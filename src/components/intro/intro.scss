@@ -27,11 +27,11 @@
 
             @include mobile3{
                 width: 90%;
-                height: auto;
-                top: 5%;
-                margin-left: 5%;
+                height: 90%;
+                
                 @include mobile{
                     height: 100%;
+                    width: 100%;
 
                 }
             }

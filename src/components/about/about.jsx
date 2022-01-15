@@ -21,9 +21,10 @@ export default function about() {
                     <div className = "bottom">
                     <ul>
                             <li><b>University of Pennsylvania</b></li>
-                            <li>Major: Networked and Social Systems Engineering (NETS)</li>
-                            <li>GPA: 3.97/4.00</li>
-                            <li>Relevant coursework: Financial Derivatives, Venture Capital and Entrepreneurial Mangaement,
+                            <li>Wharton School: BS in Economics, Concentration in Finance</li>
+                            <li>School of Engineering and Applied Science: BSE in Networked and Social Systems Engineering</li>
+                            <li>GPA: 3.93/4.00</li>
+                            <li>Relevant coursework: Financial Derivatives, Fixed Income Securities, Venture Capital and Entrepreneurial Mangaement,
                                 Linear Algebra, Scalable and Cloud Computing, Probability, Data Structures and Algorithms 
                             </li>
                             <li>Clubs: Quantitative and Global Macroeconomics Investment Team, Penn Blockchain Trading Committee</li>
@@ -41,7 +42,8 @@ export default function about() {
                         <h3>The Basics</h3>
                     </div>
                     <div className = "bottom">
-                        My name is William Fan and I'm a student in Networked and Social Systems Engineering (NETS) at the University of Pennsylvania.
+                        My name is William Fan and I'm a student studying Finance and Networked and Social Systems Engineering between the Wharton School and
+                        the School of Engineering and Applied Science at the University of Pennsylvania.
                         Broadly, my primary interests are in finance, statistics, computer science, and their unique intersection. Outside of my academics,
                         I enjoy playing the piano and am currently learning the electric guitar. In high school, I was also nationally ranked in cross country
                         and track and while I'm no longer an active runner, I do still enjoy the occassional hobby jog. In my free time, I like to play pool

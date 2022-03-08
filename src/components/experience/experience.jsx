@@ -23,22 +23,6 @@ export default function experience() {
       <h1 className="title">Experience</h1>
       <VerticalTimeline lineColor="#06d6a0">
         <VerticalTimelineElement
-              key="AIG"
-              iconStyle={{background: '#06D6A0'}}
-              icon={<WorkIcon/>}
-              contentStyle={{ background: '#ddccff', color: '#black' }}
-            >
-              <h3 className="vertical-timeline-element-title">
-                Incoming Summer Analyst @ AIG
-              </h3>
-              <h4>June 2022 - August 2022</h4>
-              <h5 className="vertical-timeline-element-subtitle">
-                New York, New York
-              </h5>
-              <span id="description">This upcoming summer, I'll be joining the Enterprise Risk Management group at American International Group
-              (AIG). At a high level, I'll be creating models for derivatives pricing, economic forecasting, and asset management.</span>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
               key="FNCE"
               iconStyle={{background: '#06D6A0'}}
               icon={<WorkIcon/>}

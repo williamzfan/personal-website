@@ -65,9 +65,9 @@ export default function experience() {
               contentStyle={{ background: '#ddccff', color: '#black' }}
             >
               <h3 className="vertical-timeline-element-title">
-                Statistics and Data Science Intern @ MIT
+                Research Engineer @ MIT
               </h3>
-              <h4>May 2021 - September 2021</h4>
+              <h4>May 2021 - October 2021</h4>
               <h5 className="vertical-timeline-element-subtitle">
                 Cambridge, MA
               </h5>

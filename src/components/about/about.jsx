@@ -23,7 +23,7 @@ export default function about() {
                             <li><b>University of Pennsylvania</b></li>
                             <li>Wharton School: BS in Economics, Concentration in Finance</li>
                             <li>School of Engineering and Applied Science: BSE in Networked and Social Systems Engineering</li>
-                            <li>GPA: 3.93/4.00</li>
+                            <li>GPA: 3.94/4.00</li>
                             <li>Relevant coursework: Financial Derivatives, Fixed Income Securities, Venture Capital and Entrepreneurial Mangaement,
                                 Linear Algebra, Scalable and Cloud Computing, Probability, Data Structures and Algorithms 
                             </li>

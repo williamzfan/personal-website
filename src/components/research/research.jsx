@@ -27,9 +27,9 @@ export default function Research() {
         {
           id: "2",
           icon: "./assets/mitlogo.png",
-          title: "Statistics and Data Science Research Intern @ MIT",
+          title: "Research Engineer @ MIT",
           desc:
-            "In collaboration with Prof. Peter Fisher (May - Sept 2021)",
+            "In collaboration with Prof. Peter Fisher (May - Oct 2021)",
           b1:
             "Implemented statistical models that accurately determined the location of entities, particularly stealth aircraft, using only reflected radio waves",
           b2:
